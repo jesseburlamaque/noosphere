@@ -11,10 +11,14 @@
             "id": "28fde851c166392c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lima et al 2012 - allometric-models-biomass-above-below-ground"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#metodologia",
+                "query": "tag:#redd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,6 +194,7 @@
   },
   "active": "28fde851c166392c",
   "lastOpenFiles": [
+    "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground.md",
     "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass.md",
     "00-Inbox/2014-CHAVE-allometric-models-tropical-biomass.md",
     "04-Templates/nota-topico.md",
