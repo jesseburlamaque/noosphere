@@ -6,6 +6,8 @@ tags:
   - "metodologia"
   - "carbono"
   - "floresta"
+  - "amazonia-nw"
+  - "rio-negro"
 title: "Allometric models for estimating above- and below-ground biomass in Amazonian forests at São Gabriel da Cachoeira in the upper Rio Negro, Brazil"
 authors:
   - "Lima AJN"

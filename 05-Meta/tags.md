@@ -26,7 +26,6 @@ tags: []
 | `#sensoriamento-remoto` | Satélites, drones, SAR, LiDAR, índices espectrais |
 | `#clima` | Mudanças climáticas, cenários CMIP, forçantes radiativas |
 | `#floresta` | Ecologia florestal, fitossociologia, sucessão |
-| `#amazonia` | Trabalhos específicos sobre o bioma Amazônico |
 | `#metodologia` | Desenvolvimento ou validação de método |
 | `#geoespacial` | SIG, análise espacial, geoprocessamento |
 | `#desmatamento` | Detecção, drivers, trajetórias de desmatamento |
@@ -35,6 +34,20 @@ tags: []
 | `#hidrologia` | Ciclo hidrológico, vazão, precipitação, seca |
 | `#biodiversidade` | Riqueza de espécies, composição, indicadores |
 | `#biomassa` | Estimativa, modelos alométricos, estoques de biomassa acima e abaixo do solo |
+
+## Região
+
+| Tag | Descrição |
+|-----|-----------|
+| `#amazonia` | Bioma Amazônico (tag ampla) |
+| `#pan-tropical` | Estudos de abrangência global/pantropical |
+| `#amazonia-central` | Região de Manaus, ZF-2, Reserva Ducke |
+| `#amazonia-nw` | Noroeste da Amazônia (Alto Rio Negro, São Gabriel da Cachoeira) |
+| `#amazonia-oriental` | Pará, Tomé-Açu, Amazônia oriental |
+| `#amazonia-ocidental` | Acre, Amazonas ocidental, Peru, Trans-Purus |
+| `#amazonia-meridional` | Mato Grosso, sul da Amazônia, arco do desmatamento |
+| `#rio-negro` | Específica para a bacia do Rio Negro |
+| `#manaus` | Específica para a região de Manaus |
 
 ## Output
 

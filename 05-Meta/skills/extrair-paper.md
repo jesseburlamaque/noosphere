@@ -75,18 +75,20 @@ Nunca invente uma opinião pelo usuário.
 - Se o vault estiver vazio: `_nenhuma conexão identificada ainda_`
 
 ### 5. Nome do arquivo
-Formato: `Autor et al Ano - palavras-chave-do-titulo.md`
+Formato: `Autor et al Ano - keyword1-keyword2-keyword3-regiao.md`
 Regras:
 - **Autor**: sobrenome do primeiro autor capitalizado normalmente
 - **et al**: se houver múltiplos autores (omitir se autor único)
 - **Ano**: ano de publicação
-- **Título**: 3-5 palavras-chave do título, minúsculas, separadas por hífen
-- **Separador**: ` - ` entre autor/ano e o título
+- **Keywords**: 3-5 palavras-chave em **inglês** (minúsculas, separadas por hífen), extraídas do título ou do tema central do paper
+- **Região**: última palavra do nome, indicando a região geográfica do estudo (ex: `pantropical`, `amazonia-central`, `rio-negro`, `manaus`, `peru`)
+- **Separador**: ` - ` entre autor/ano e as keywords
 
 Exemplos:
-- `Chave et al 2014 - improved-allometric-models-biomass.md`
+- `Chave et al 2014 - improved-allometric-models-biomass-pantropical.md`
 - `Higuchi 2015 - dinamica-volume-biomassa-floresta.md`
-- `Silva 2007 - alometria-estoque-dinamica-biomassa.md`
+- `Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro.md`
+- `Silva 2007 - allometry-stock-dynamics-biomass-manaus.md`
 
 ### 6. Salvar
 Salve em `00-Inbox/`.

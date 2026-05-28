@@ -6,6 +6,8 @@ tags:
   - "metodologia"
   - "carbono"
   - "floresta"
+  - "amazonia-central"
+  - "manaus"
 title: "Alometria, estoque e dinâmica da biomassa de florestas primárias e secundárias na região de Manaus (AM)"
 authors:
   - "Silva RP"
