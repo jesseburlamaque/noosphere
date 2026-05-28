@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0058b07e0bcbc9a3",
+        "id": "f2ac5f5c69a898b4",
         "type": "tabs",
         "children": [
           {
-            "id": "c904a0a1e046d7c4",
+            "id": "8d8d85be07ec6dbc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "síntese",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -188,9 +188,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c904a0a1e046d7c4",
+  "active": "8d8d85be07ec6dbc",
   "lastOpenFiles": [
     "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
+    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
     "00-Inbox/Higuchi 2015 - volume-biomass-carbon-dynamics-amazonas.md",
     "_pdfs/Melo et al 2024 - To improve estimates of neotropical forest carbon stocks more direct measurements are needed - An example from the Southwestern Amazon.pdf",
     "_pdfs/Comparison_of_formulae_for_biomass_content_determi.pdf",
@@ -220,7 +221,6 @@
     "02-Topicos/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "05-Meta/skills/sintetizar-papers.md",
     "04-Templates/nota-sintese.md",
-    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
     "00-Inbox/Silva 2007 - allometry-stock-dynamics-biomass-manaus.md",
     "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro.md",
     "05-Meta/graph-config.md",

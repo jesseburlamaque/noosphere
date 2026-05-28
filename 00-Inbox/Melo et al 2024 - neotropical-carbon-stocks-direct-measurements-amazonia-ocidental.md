@@ -1,15 +1,11 @@
 ---
 noteId: melo2024neotropical
 tags:
-  - inbox
   - biomassa
-  - metodologia
   - carbono
-  - redd
   - amazonia
   - amazonia-ocidental
-  - achado-chave
-title: To improve estimates of neotropical forest carbon stocks more direct measurements are needed: An example from the Southwestern Amazon
+title: "To improve estimates of neotropical forest carbon stocks more direct measurements are needed: An example from the Southwestern Amazon"
 authors:
   - Melo AWF
   - Lima AJN
@@ -23,7 +19,7 @@ authors:
   - Higuchi N
 year: 2024
 doi: https://doi.org/10.1016/j.foreco.2024.122195
-journal: "Forest Ecology and Management, 570, 122195"
+journal: Forest Ecology and Management, 570, 122195
 status: inbox
 ---
 
