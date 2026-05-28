@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "26f3253cfe1f2588",
+        "id": "60f04fbdf321fba2",
         "type": "tabs",
         "children": [
           {
-            "id": "80dd4f9c8d0292da",
+            "id": "57815bc0b6c33720",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "03-Sinteses/Síntese - Estoques de biomassa na Amazônia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Síntese - Estoques de biomassa na Amazônia"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alometria",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -188,8 +192,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "80dd4f9c8d0292da",
+  "active": "57815bc0b6c33720",
   "lastOpenFiles": [
+    "03-Sinteses/Síntese - Estoques de biomassa na Amazônia.md",
     "03-Sinteses/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
     "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
@@ -225,7 +230,6 @@
     "04-Templates/nota-sintese.md",
     "00-Inbox/Silva 2007 - allometry-stock-dynamics-biomass-manaus.md",
     "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro.md",
-    "05-Meta/graph-config.md",
-    "02-Topicos/Amazônia Central.md"
+    "05-Meta/graph-config.md"
   ]
 }
