@@ -11,10 +11,14 @@
             "id": "2fc00cd0cc8b5367",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Síntese - Equações alométricas para biomassa e volume na Amazônia"
             }
           }
         ]
