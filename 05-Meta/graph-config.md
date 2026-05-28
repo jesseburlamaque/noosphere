@@ -17,6 +17,7 @@ O painel "Groups" aparece na parte inferior das configurações do grafo. Clique
 |-------|-------|-----|
 | Inbox | `path:00-Inbox` | Azul |
 | Papers | `path:01-Papers` | Verde |
+| Sínteses | `path:02-Topicos/Síntese` | Roxo |
 | Tópicos | `path:02-Topicos` | Laranja |
 | Meta | `path:05-Meta` | Cinza |
 

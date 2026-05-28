@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#achado-chave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d0d966182cbb9dcc",
+  "active": "88b3001e7ae28f0d",
   "lastOpenFiles": [
+    "2026-05-28.md",
+    "Sem título.canvas",
+    "02-Topicos/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
     "02-Topicos/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "05-Meta/skills/sintetizar-papers.md",
     "04-Templates/nota-sintese.md",
