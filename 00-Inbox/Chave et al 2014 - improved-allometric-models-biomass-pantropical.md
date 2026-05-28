@@ -4,7 +4,6 @@ tags:
   - carbono
   - biomassa
   - floresta
-  - achado-chave
   - amazonia
   - pan-tropical
 title: Improved allometric models to estimate the aboveground biomass of tropical trees

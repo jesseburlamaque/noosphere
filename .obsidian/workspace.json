@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f5c97b0b4a488fe5",
+        "id": "5cfc865d59e132ab",
         "type": "tabs",
         "children": [
           {
-            "id": "64338f5190d43eeb",
+            "id": "031b6369dd9476e0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#metodologia",
+                "query": "tag:#achado-chave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,10 +188,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "64338f5190d43eeb",
+  "active": "031b6369dd9476e0",
   "lastOpenFiles": [
-    "00-Inbox/Silva 2007 - allometry-stock-dynamics-biomass-manaus.md",
+    "00-Inbox/Higuchi 2015 - volume-biomass-carbon-dynamics-amazonas.md",
     "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
+    "00-Inbox/Silva 2007 - allometry-stock-dynamics-biomass-manaus.md",
     "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro.md",
     "05-Meta/graph-config.md",
     "02-Topicos/Amazônia Central.md",
