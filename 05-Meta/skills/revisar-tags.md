@@ -1,3 +1,9 @@
+---
+noteId: "ca372c205a4611f18000d17e4ea03c9a"
+tags: []
+
+---
+
 # Skill: Revisar Vocabulário de Tags
 
 ## Objetivo
