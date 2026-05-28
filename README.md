@@ -75,6 +75,20 @@ A weekly review audits tags, catches orphan notes, and enforces inbox zero.
 
 There are no external databases, APIs, or services. Everything is flat Markdown files with YAML frontmatter. Obsidian is the browser; the filesystem is the database.
 
+## Skills (AI-Powered)
+
+Skills are markdown files inside `06-Meta/skills/` that serve as instructions for a large language model (LLM). When you run `opencode`, the skill is loaded into the model's context window. The LLM reads the PDF (or scans the vault) and executes the skill's steps step by step — extracting metadata, cross-referencing content, writing files. Opencode handles the tool calls (reading files, running commands, writing output); the skill tells the LLM what to do with those tools.
+
+Three vault skills were created for this project:
+
+| Skill | File | What it does |
+|-------|------|-------------|
+| extrair-paper | `06-Meta/skills/extrair-paper.md` | Reads a PDF, renames it to the vault convention, extracts frontmatter (authors, DOI, tags from the controlled vocabulary), fills the atomic note template, scans existing topic notes for connections, and saves the formatted note to `00-Inbox/` |
+| revisar-tags | `06-Meta/skills/revisar-tags.md` | Scans all notes in the vault, extracts every tag in use, compares them against `06-Meta/tags.md`, and reports undocumented tags, obsolete tags, and duplicate synonyms. Also flags orphan notes (zero inbound or outbound links) |
+| sintetizar-papers | `06-Meta/skills/sintetizar-papers.md` | Cross-references 2+ papers on a theme, validates every number against the original PDF (not just the note), generates a synthesis with comparison tables, per-paper analysis, conclusions, and open questions. Can also update an existing synthesis when a new paper is added |
+
+The skills are modular and domain-agnostic. The `extrair-paper` skill references the vault's specific template sections and tag vocabulary, but the underlying pattern (read -> extract -> format -> connect -> save) works for any research field.
+
 ## Getting Started: Replicate This Environment
 
 1. **Install Obsidian** from [obsidian.md](https://obsidian.md)
