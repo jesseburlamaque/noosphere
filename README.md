@@ -1,6 +1,5 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-v1.5%2B-483699?style=flat-square&logo=obsidian)
 ![Opencode](https://img.shields.io/badge/Opencode-v0.16%2B-000000?style=flat-square&logo=github)
-![Zettelkasten](https://img.shields.io/badge/Zettelkasten-Powered-1a1a2e?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 # Noosphere
