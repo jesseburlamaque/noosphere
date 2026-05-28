@@ -63,7 +63,9 @@ Salve em `03-Sinteses/` (ex: `03-Sinteses/Síntese - Modelos Alométricos na Ama
 - Têm o paper citado entre parênteses — ex: `(Chave et al 2014)`
 - Quando houver discordância entre papers, explicite o conflito — ex: "Chave et al 2014 defende que... enquanto Higuchi 2015 encontrou..."
 
-**Perguntas em aberto**: Lacunas que persistem após a comparação.
+**Perguntas em aberto**: Lacunas que persistem após a comparação. Ao adicionar papers novos, revise e expanda esta seção.
+
+**Recomendação por região (opcional)**: Se os dados permitirem, inclua uma tabela final com a equação/modelo recomendado para cada contexto geográfico, especificando: região, equação, base empírica (n, local), aplicabilidade e viés esperado se usar alternativa.
 
 ### 4. Regras de evidência
 
@@ -76,3 +78,15 @@ Salve em `03-Sinteses/` (ex: `03-Sinteses/Síntese - Modelos Alométricos na Ama
 
 Salve em `03-Sinteses/`.
 Confirme para o usuário: nome da síntese criada + papers incluídos + variáveis comparadas + número de conclusões.
+
+### 6. Atualizar síntese existente com novo paper
+
+Quando um paper é adicionado ao vault e já existe uma síntese sobre o tema:
+
+1. **Leia a síntese existente** em `03-Sinteses/`
+2. **Adicione o paper** à seção "Papers consultados"
+3. **Crie seção de análise** para o novo paper seguindo o padrão das existentes
+4. **Atualize tabelas comparativas** se o novo paper fornece dados que se encaixam nas variáveis já comparadas (ex: nova equação na Tabela 1, nova região na Tabela 2)
+5. **Revise as conclusões**: adicione novas se um achado relevante emergir; ajuste conclusões existentes se o novo paper contradiz ou refina evidências anteriores
+6. **Expanda "Perguntas em aberto"** com lacunas reveladas pelo novo paper
+7. **Atualize "Recomendação por região"** se houver dados para nova região ou ajuste em recomendações existentes

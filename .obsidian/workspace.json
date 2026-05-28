@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d8f930c50cac980c",
+        "id": "064fd8ea6a610808",
         "type": "tabs",
         "children": [
           {
-            "id": "9748b7f17f95bd75",
+            "id": "9fcf01f08ef8b2cb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,11 +188,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9748b7f17f95bd75",
+  "active": "9fcf01f08ef8b2cb",
   "lastOpenFiles": [
+    "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
+    "03-Sinteses/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
     "00-Inbox/Nogueira et al 2008 - allometric-equations-biomass-wood-volume-amazonia.md",
-    "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
     "00-Inbox/Araújo et al 1999 - biomass-formulae-comparison-amazonia-oriental.md",
     "_pdfs/Araújo et al 1999 - Comparison of formulae for biomass content determination in a tropical rain forest site in the state of Pará, Brazil.pdf",
     "_pdfs/Nogueira et al 2008 - Estimates of forest biomass in the Brazilian Amazon - New allometric equations and adjustments to biomass from wood-volume inventories.pdf",
@@ -217,7 +218,6 @@
     "05-Templates/nota-topico.md",
     "05-Templates/nota-sintese.md",
     "05-Templates/nota-paper.md",
-    "03-Sinteses/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "Sem título.canvas",
     "02-Topicos/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
     "02-Topicos/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",

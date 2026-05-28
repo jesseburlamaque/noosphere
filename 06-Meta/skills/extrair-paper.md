@@ -41,13 +41,33 @@ Exemplos:
 - Se o PDF for escaneado e ilegível, avise o usuário
 
 ### 3. Extração do frontmatter
-- `title`: título exato, sem abreviações
-- `authors`: lista de sobrenomes + iniciais (ex: Silva J, Costa M)
-- `year`: ano de publicação
-- `doi`: link clicável completo (`https://doi.org/10...`) se encontrado no PDF; se não houver DOI, deixe em branco (`""`) para preenchimento manual
-- `journal`: nome da revista ou conferência
-- `tags`: selecione APENAS do vocabulário em `06-Meta/tags.md`
-- `status`: sempre inicie como `inbox`
+
+Use **exatamente** esta ordem e formato:
+
+```yaml
+---
+noteId: sobrenome_ano_keyword
+tags:
+  - tag1
+  - tag2
+title: "Título se contiver dois-pontos + espaço, senão sem aspas"
+authors:
+  - Sobrenome I
+  - Sobrenome II
+year: YYYY
+doi: https://doi.org/10.xxx ou ""
+journal: "Nome com vírgulas vai entre aspas"
+status: inbox
+---
+```
+
+Regras:
+- `noteId`: `<sobrenome>_<ano>_<keyword>` (ex: `melo2024neotropical`, `nogueira2008estimates`)
+- `title`: título exato. **Obrigatoriamente entre aspas** se contiver `:` (dois-pontos seguido de espaço)
+- `authors`: lista YAML, cada autor em linha separada com `- ` (ex: `- Melo AWF`). **Nunca** como string inline
+- `tags`: lista YAML, cada tag em linha separada com `- `. **Nunca** usar formato `[#tag1 #tag2]` ou prefixo `#` nos valores
+- Selecione APENAS do vocabulário em `06-Meta/tags.md`
+- `noteId` não recebe aspas. `doi` e `journal` vão entre aspas se contiverem caracteres especiais
 
 ### 4. Preenchimento das seções
 
@@ -61,6 +81,7 @@ Seja específico — evite frases genéricas.
 **Principais achados**
 3 a 5 bullet points com resultados importantes.
 Inclua números e métricas quando disponíveis.
+**Para papers alométricos**: extraia os coeficientes das equações (a, b, R², Syx%, n amostral) e documente-os explicitamente — mesmo que estejam em tabela no PDF.
 
 **Metodologia**
 3-5 frases: área de estudo, dados utilizados, métodos, período temporal.
@@ -111,3 +132,14 @@ Confirme para o usuário: nome do arquivo criado + tags aplicadas.
 Após salvar, verifique se todas as tags usadas existem em `06-Meta/tags.md`.
 Se houver tags novas não documentadas, avise o usuário e aguarde confirmação
 antes de qualquer alteração no vocabulário.
+
+### 9. Sincronizar com sínteses existentes
+Se o paper extraído se relaciona com o tema de alguma síntese em `03-Sinteses/`:
+1. **Leia** a(s) síntese(s) existente(s) para verificar se o paper já está incluído
+2. Se **não** estiver incluído, informe ao usuário: "Este paper não está na síntese [nome]. Deseja que eu atualize?"
+3. Se o usuário confirmar, adicione o paper à síntese:
+   - Papers consultados
+   - Análise por paper (nova seção)
+   - Tabelas comparativas (se aplicável)
+   - Conclusões (se houver novas evidências)
+   - Perguntas em aberto (se houver novas lacunas)
