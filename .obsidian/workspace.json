@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "22e59c799377d704",
+        "id": "5f403f384be2365f",
         "type": "tabs",
         "children": [
           {
-            "id": "085e3e138b44a0b7",
+            "id": "a5253313681c42ec",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Sem título.base",
-                "viewName": "Tabela"
-              },
-              "icon": "lucide-table",
-              "title": "Sem título"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -73,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,19 +197,20 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "085e3e138b44a0b7",
+  "active": "a5253313681c42ec",
   "lastOpenFiles": [
+    "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
+    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
+    "00-Inbox/Araújo et al 1999 - biomass-formulae-comparison-amazonia-oriental.md",
     "Sem título.base",
+    "README.md",
     "2026-05-28.md",
     "03-Sinteses/Síntese - Estoques de biomassa na Amazônia.md",
     "03-Sinteses/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
-    "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
     "00-Inbox/Nogueira et al 2008 - allometric-equations-biomass-wood-volume-amazonia.md",
-    "00-Inbox/Araújo et al 1999 - biomass-formulae-comparison-amazonia-oriental.md",
     "_pdfs/Araújo et al 1999 - Comparison of formulae for biomass content determination in a tropical rain forest site in the state of Pará, Brazil.pdf",
     "_pdfs/Nogueira et al 2008 - Estimates of forest biomass in the Brazilian Amazon - New allometric equations and adjustments to biomass from wood-volume inventories.pdf",
-    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
     "00-Inbox/Higuchi 2015 - volume-biomass-carbon-dynamics-amazonas.md",
     "_pdfs/Melo et al 2024 - To improve estimates of neotropical forest carbon stocks more direct measurements are needed - An example from the Southwestern Amazon.pdf",
     "_pdfs/Comparison_of_formulae_for_biomass_content_determi.pdf",
@@ -223,7 +220,6 @@
     "_pdfs/27896.pdf",
     "_pdfs/Unconfirmed 989997.crdownload",
     "06-Meta/workflow.md",
-    "04-Projetos",
     "06-Meta/skills/sintetizar-papers.md",
     "06-Meta/skills/revisar-tags.md",
     "06-Meta/skills/extrair-paper.md",
@@ -238,7 +234,6 @@
     "02-Topicos/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
     "05-Meta/skills/sintetizar-papers.md",
     "04-Templates/nota-sintese.md",
-    "00-Inbox/Silva 2007 - allometry-stock-dynamics-biomass-manaus.md",
-    "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro.md"
+    "00-Inbox/Silva 2007 - allometry-stock-dynamics-biomass-manaus.md"
   ]
 }

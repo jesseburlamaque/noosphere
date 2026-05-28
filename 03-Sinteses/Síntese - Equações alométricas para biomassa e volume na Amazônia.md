@@ -26,27 +26,28 @@ Os seis papers fornecem mais de 30 equações alométricas documentadas, abrange
 
 ### Tabela 1 — Modelos de biomassa por paper
 
-| Eq. ID | Paper | Equação | Variável alvo | n | Região | R² | Syx% / Erro |
-|--------|-------|---------|---------------|----|--------|----|-------------|
-| C1 | Chave 2014 | ln(AGB) = a + b ln(ρD²H) + ε | AGB (kg) | 4004 | Pantropical | — | CV 56,5% por árvore |
-| C2 | Chave 2014 | ln(AGB) = a + b ln(D²H) + ε (sem ρ) | AGB (kg) | 4004 | Pantropical | — | AIC = 3983 vs. 3855 (com ρ) |
-| C3 | Chave 2014 | AGBest = 0,0673 × (ρD²H)^0,976 | AGB (kg) | 4004 | Pantropical | — | CV 56,5% (árv.); ~10% (1 ha) |
-| C4 | Chave 2014 | AGBest = exp[-1,803 − 0,976E + 0,976 ln(ρ) + 2,673 ln(D) − 0,0299(ln D)²] (Eq. 7) | AGB (kg) | 4004 | Pantropical | — | CV 71,5%; bias 9,71% |
-| L1 | Lima 2012 | ln(AGW) = −2,025 + 2,459 ln D | AGW (kg) | 101 | Rio Negro (NW) | 0,944 | 8,40% |
-| L2 | Lima 2012 | ln(AGW) = −3,372 + 1,830 ln D + 1,097 ln H | AGW (kg) | 101 | Rio Negro (NW) | 0,959 | 6,58% |
-| L3 | Lima 2012 | ln(AGW) = 5,604 + 0,957 ln(D²H) | AGW (kg) | 101 | Rio Negro (NW) | 0,959 | 6,59% |
-| L4 | Lima 2012 | AGW = 0,488 × D^2,083 | AGW (kg) | 101 | Rio Negro (NW) | 0,934 | 5,63% |
-| L5 | Lima 2012 | AGW = 0,488 × D^2,083 × H^0,000 | AGW (kg) | 101 | Rio Negro (NW) | 0,933 | 5,63% |
-| L6 | Lima 2012 | AGW = 316,7 × (D²H)^0,861 | AGW (kg) | 101 | Rio Negro (NW) | 0,920 | 6,15% |
-| LB1 | Lima 2012 | ln(BGW) = −3,881 + 2,406 ln D | BGW (kg) | 101 | Rio Negro (NW) | 0,894 | 15,17% |
-| LB2 | Lima 2012 | BGW = 0,136 × AGW | BGW (kg) | 101 | Rio Negro (NW) | — | — |
-| S1 | Silva 2007 | PF = 2,7179 × DAP^1,8774 | PF total (kg, fresco) | 494 | Manaus (Central) | 0,94 | 3,9% |
-| S2 | Silva 2007 | PF = 0,5521 × DAP^1,6629 × HT^0,7224 | PF total (kg, fresco) | 494 | Manaus (Central) | 0,95 | 3,7% |
-| SA | Silva 2007 | AGB = 2,2737 × DAP^1,9156 × 0,584 | AGB seca (kg) | 494 | Manaus (Central) | 0,85 | 4,20% |
-| SB | Silva 2007 | BGB = 0,0469 × DAP^2,4754 × 0,533 | BGB seca (kg) | 131 | Manaus (Central) | 0,95 | 5,12% |
-| H1 | Higuchi 2015 | BStot = 2,7179 × DAP^1,8774 × 0,584 × fc (fc = Hdom_sítio / 30,2) | BStot seca (kg) | 494* | Amazonas | 0,94 | 3,91% |
-| H2 | Higuchi 2015 | AGB = 2,2737 × DAP^1,9156 × 0,584 × fc | AGB seca (kg) | 494* | Amazonas | 0,85 | 4,20% |
-| H3 | Higuchi 2015 | BGB = 0,0469 × DAP^2,4754 × 0,533 × fc | BGB seca (kg) | 131* | Amazonas | 0,95 | 5,12% |
+| Eq. ID | Paper        | Equação                                                                           | Variável alvo         | n    | Região           | R²    | Syx% / Erro                  |
+| ------ | ------------ | --------------------------------------------------------------------------------- | --------------------- | ---- | ---------------- | ----- | ---------------------------- |
+| C1     | Chave 2014   | ln(AGB) = a + b ln(ρD²H) + ε                                                      | AGB (kg)              | 4004 | Pantropical      | —     | CV 56,5% por árvore          |
+| C2     | Chave 2014   | ln(AGB) = a + b ln(D²H) + ε (sem ρ)                                               | AGB (kg)              | 4004 | Pantropical      | —     | AIC = 3983 vs. 3855 (com ρ)  |
+| C3     | Chave 2014   | AGBest = 0,0673 × (ρD²H)^0,976                                                    | AGB (kg)              | 4004 | Pantropical      | —     | CV 56,5% (árv.); ~10% (1 ha) |
+| C4     | Chave 2014   | AGBest = exp[-1,803 − 0,976E + 0,976 ln(ρ) + 2,673 ln(D) − 0,0299(ln D)²] (Eq. 7) | AGB (kg)              | 4004 | Pantropical      | —     | CV 71,5%; bias 9,71%         |
+| L1     | Lima 2012    | ln(AGW) = −2,025 + 2,459 ln D                                                     | AGW (kg)              | 101  | Rio Negro (NW)   | 0,944 | 8,40%                        |
+| L2     | Lima 2012    | ln(AGW) = −3,372 + 1,830 ln D + 1,097 ln H                                        | AGW (kg)              | 101  | Rio Negro (NW)   | 0,959 | 6,58%                        |
+| L3     | Lima 2012    | ln(AGW) = 5,604 + 0,957 ln(D²H)                                                   | AGW (kg)              | 101  | Rio Negro (NW)   | 0,959 | 6,59%                        |
+| L4     | Lima 2012    | AGW = 0,488 × D^2,083                                                             | AGW (kg)              | 101  | Rio Negro (NW)   | 0,934 | 5,63%                        |
+| L5     | Lima 2012    | AGW = 0,488 × D^2,083 × H^0,000                                                   | AGW (kg)              | 101  | Rio Negro (NW)   | 0,933 | 5,63%                        |
+| L6     | Lima 2012    | AGW = 316,7 × (D²H)^0,861                                                         | AGW (kg)              | 101  | Rio Negro (NW)   | 0,920 | 6,15%                        |
+| LB1    | Lima 2012    | ln(BGW) = −3,881 + 2,406 ln D                                                     | BGW (kg)              | 101  | Rio Negro (NW)   | 0,894 | 15,17%                       |
+| LB2    | Lima 2012    | BGW = 0,136 × AGW                                                                 | BGW (kg)              | 101  | Rio Negro (NW)   | —     | —                            |
+| S1     | Silva 2007   | PF = 2,7179 × DAP^1,8774                                                          | PF total (kg, fresco) | 494  | Manaus (Central) | 0,94  | 3,9%                         |
+| S2     | Silva 2007   | PF = 0,5521 × DAP^1,6629 × HT^0,7224                                              | PF total (kg, fresco) | 494  | Manaus (Central) | 0,95  | 3,7%                         |
+| SA     | Silva 2007   | AGB = 2,2737 × DAP^1,9156 × 0,584                                                 | AGB seca (kg)         | 494  | Manaus (Central) | 0,85  | 4,20%                        |
+| SB     | Silva 2007   | BGB = 0,0469 × DAP^2,4754 × 0,533                                                 | BGB seca (kg)         | 131  | Manaus (Central) | 0,95  | 5,12%                        |
+| H1     | Higuchi 2015 | BStot = 2,7179 × DAP^1,8774 × 0,584 × fc (fc = Hdom_sítio / 30,2)                 | BStot seca (kg)       | 494* | Amazonas         | 0,94  | 3,91%                        |
+| H2     | Higuchi 2015 | AGB = 2,2737 × DAP^1,9156 × 0,584 × fc                                            | AGB seca (kg)         | 494* | Amazonas         | 0,85  | 4,20%                        |
+| H3     | Higuchi 2015 | BGB = 0,0469 × DAP^2,4754 × 0,533 × fc                                            | BGB seca (kg)         | 131* | Amazonas         | 0,95  | 5,12%                        |
+|        |              |                                                                                   |                       |      |                  |       |                              |
 
 | N1 | Nogueira 2008 | ln(AGW) = −1,716 + 2,413·ln(D) | AGW seca (kg) | 267 | Sul Amazônia | — | — |
 | N2 | Nogueira 2008 | AGB = 2,718·DAP^1,877·0,584·0,951 (VEF corrigido) | AGB seca (kg) | 267 | Sul Amazônia | — | — |
@@ -58,12 +59,13 @@ Os seis papers fornecem mais de 30 equações alométricas documentadas, abrange
 
 ### Tabela 2 — Comparação regional das equações de simples entrada (Model 1: ln DW = a + b ln D) para biomassa aérea (compilado de Lima et al., 2012, Tabela 4)
 
-| Região | Fonte | ln AGW = a + b ln D | R² | Syx% |
-|--------|-------|-------------------|----|------|
-| Amazônia oriental (Pará) | Araújo et al., 1999 | ln AGW = −2,377 + 2,651 ln D | — | — |
-| Amazônia central (Manaus) | Silva, 2007 | ln AGW = −1,912 + 2,490 ln D | — | — |
-| Amazônia sul (MT/PA) | Nogueira et al., 2008a | ln AGW = −1,716 + 2,413 ln D | — | — |
-| Amazônia noroeste (Rio Negro) | Lima et al., 2012 | ln AGW = −2,025 + 2,459 ln D | 0,944 | 8,40% |
+| Região                        | Fonte                  | ln AGW = a + b ln D          | R²    | Syx%  |
+| ----------------------------- | ---------------------- | ---------------------------- | ----- | ----- |
+| Amazônia oriental (Pará)      | Araújo et al., 1999    | ln AGW = −2,377 + 2,651 ln D | —     | —     |
+| Amazônia central (Manaus)     | Silva, 2007            | ln AGW = −1,912 + 2,490 ln D | —     | —     |
+| Amazônia sul (MT/PA)          | Nogueira et al., 2008a | ln AGW = −1,716 + 2,413 ln D | —     | —     |
+| Amazônia noroeste (Rio Negro) | Lima et al., 2012      | ln AGW = −2,025 + 2,459 ln D | 0,944 | 8,40% |
+|                               |                        |                              |       |       |
 
 > Nota: Melo et al. (2024) fornece o primeiro conjunto de equações para uma quinta sub-região — o Sudoeste da Amazônia (SWA, Acre). Os coeficientes do modelo de simples entrada (Modelo 1: DM = a·DBH^b) devem ser consultados na publicação original (doi: 10.1016/j.foreco.2024.122195), pois o paper não os reporta no formato ln AGW = a + b·ln(D) usado na Tabela 2. A validação cruzada de Melo (2024) mostra que o Sul (Nogueira 2008) é a equação existente com menor viés no SWA (+1,3%), consistente com a similaridade fisionômica entre florestas abertas do Sul e do Sudoeste.
 
