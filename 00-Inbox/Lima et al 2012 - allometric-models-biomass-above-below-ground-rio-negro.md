@@ -22,7 +22,7 @@ authors:
   - "Ishizuka M"
   - "Higuchi N"
 year: 2012
-doi: "10.1016/j.foreco.2012.04.028"
+doi: "https://doi.org/10.1016/j.foreco.2012.04.028"
 journal: "Forest Ecology and Management"
 status: "inbox"
 

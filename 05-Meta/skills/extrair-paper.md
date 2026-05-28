@@ -44,7 +44,7 @@ Exemplos:
 - `title`: título exato, sem abreviações
 - `authors`: lista de sobrenomes + iniciais (ex: Silva J, Costa M)
 - `year`: ano de publicação
-- `doi`: se encontrado no PDF, senão deixe em branco
+- `doi`: link clicável completo (`https://doi.org/10...`) se encontrado no PDF; se não houver DOI, deixe em branco (`""`) para preenchimento manual
 - `journal`: nome da revista ou conferência
 - `tags`: selecione APENAS do vocabulário em `05-Meta/tags.md`
 - `status`: sempre inicie como `inbox`

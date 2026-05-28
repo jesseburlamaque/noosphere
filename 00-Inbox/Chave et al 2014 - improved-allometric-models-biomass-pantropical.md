@@ -36,7 +36,7 @@ authors:
   - "Saldarriaga JG"
   - "Vieilledent G"
 year: 2014
-doi: "10.1111/gcb.12629"
+doi: "https://doi.org/10.1111/gcb.12629"
 journal: "Global Change Biology"
 status: "inbox"
 
