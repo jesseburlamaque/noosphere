@@ -1,20 +1,20 @@
 ---
-noteId: "higuchi2015dinamica"
+noteId: higuchi2015dinamica
 tags:
-  - "carbono"
-  - "biomassa"
-  - "amazonia"
-  - "floresta"
-  - "metodologia"
-  - "mercado-de-carbono"
-title: "Dinâmica de volume e biomassa da floresta de terra firme do Amazonas"
+  - carbono
+  - biomassa
+  - amazonia
+  - floresta
+  - mercado-de-carbono
+  - manaus
+  - amazonia-central
+title: Dinâmica de volume e biomassa da floresta de terra firme do Amazonas
 authors:
-  - "Higuchi FG"
+  - Higuchi FG
 year: 2015
 doi: ""
-journal: "Tese de Doutorado - UFPR"
-status: "inbox"
-
+journal: Tese de Doutorado - UFPR
+status: inbox
 ---
 
 # Dinâmica de volume e biomassa da floresta de terra firme do Amazonas

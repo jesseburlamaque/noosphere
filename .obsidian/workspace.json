@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5cfc865d59e132ab",
+        "id": "23aa7c7d749e6ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "031b6369dd9476e0",
+            "id": "d0d966182cbb9dcc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -188,7 +188,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "031b6369dd9476e0",
+  "active": "d0d966182cbb9dcc",
   "lastOpenFiles": [
     "00-Inbox/Higuchi 2015 - volume-biomass-carbon-dynamics-amazonas.md",
     "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
