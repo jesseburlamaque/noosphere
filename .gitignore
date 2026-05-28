@@ -3,3 +3,6 @@ _pdfs/
 
 # Notebook assets e temporarios
 .notebook/
+
+# Configuracoes do Obsidian (específicas de cada máquina)
+.obsidian/

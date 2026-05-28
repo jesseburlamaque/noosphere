@@ -12,12 +12,35 @@ Use este skill quando o usuário disser algo como:
 
 ## Instruções
 
-### 1. Leitura do PDF
+### 1. Renomear o PDF
+
+Antes de extrair o conteúdo, renomeie o arquivo PDF seguindo o padrão:
+
+```
+Autor et al Ano - Título completo do paper.pdf
+```
+
+Regras:
+- **Autor**: sobrenome do primeiro autor com capitalização normal (ex: `Araujo`, `Chave`, `Higuchi`)
+- **et al**: se houver múltiplos autores
+- **Ano**: ano de publicação
+- **Título**: o título real completo do paper (extraído da primeira página do PDF), sem abreviações
+- **Separação**: ` - ` (espaço, hífen, espaço) entre autor/ano e o título
+- **Extensão**: sempre `.pdf`
+- **Acentuação**: mantida (ex: `Dinâmica`, `São`)
+- **Dois-pontos**: substituir por ` - ` (espaço, hífen, espaço)
+
+Exemplos:
+- `Chave et al 2014 - Improved allometric models to estimate the aboveground biomass of tropical trees.pdf`
+- `Higuchi 2015 - Dinâmica de volume e biomassa da floresta de terra firme do Amazonas.pdf`
+- `Silva 2007 - Alometria, estoque e dinâmica da biomassa de florestas primárias e secundárias na região de Manaus AM - Parte 1.pdf`
+
+### 2. Leitura do PDF
 - Leia o PDF completo antes de começar
 - Priorize: abstract, introdução, conclusão, figuras e tabelas
 - Se o PDF for escaneado e ilegível, avise o usuário
 
-### 2. Extração do frontmatter
+### 3. Extração do frontmatter
 - `title`: título exato, sem abreviações
 - `authors`: lista de sobrenomes + iniciais (ex: Silva J, Costa M)
 - `year`: ano de publicação
@@ -26,7 +49,7 @@ Use este skill quando o usuário disser algo como:
 - `tags`: selecione APENAS do vocabulário em `05-Meta/tags.md`
 - `status`: sempre inicie como `inbox`
 
-### 3. Preenchimento das seções
+### 4. Preenchimento das seções
 
 **Resumo em uma frase**
 Uma única frase que responda: "Este paper mostra que..."
@@ -51,15 +74,15 @@ Nunca invente uma opinião pelo usuário.
 - Sugira links no formato `[[nome-da-nota]]` apenas se houver relação clara
 - Se o vault estiver vazio: `_nenhuma conexão identificada ainda_`
 
-### 4. Nome do arquivo
+### 5. Nome do arquivo
 Formato: `YYYY-SOBRENOME-palavra-chave-do-titulo.md`
 Exemplo: `2023-SILVA-desmatamento-amazonia.md`
 
-### 5. Salvar
+### 6. Salvar
 Salve em `00-Inbox/`.
 Confirme para o usuário: nome do arquivo criado + tags aplicadas.
 
-### 6. Revisão de tags
+### 7. Revisão de tags
 Após salvar, verifique se todas as tags usadas existem em `05-Meta/tags.md`.
 Se houver tags novas não documentadas, avise o usuário e aguarde confirmação
 antes de qualquer alteração no vocabulário.
