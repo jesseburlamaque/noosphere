@@ -5,4 +5,4 @@ _pdfs/
 .notebook/
 
 # Configuracoes do Obsidian (específicas de cada máquina)
-.obsidian/
+.obsidian
