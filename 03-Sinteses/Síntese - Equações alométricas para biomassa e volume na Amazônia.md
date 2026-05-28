@@ -1,9 +1,8 @@
 ---
-noteId: "sintese-equacoes-alometricas"
+noteId: sintese-equacoes-alometricas
 tags:
-  - "biomassa"
-  - "amazonia"
-  - "metodologia"
+  - biomassa
+  - amazonia
 ---
 
 # Síntese - Equações alométricas para biomassa e volume na Amazônia
