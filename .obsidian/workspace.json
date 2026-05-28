@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f403f384be2365f",
+        "id": "dda78a3fdc8cf1a0",
         "type": "tabs",
         "children": [
           {
-            "id": "a5253313681c42ec",
+            "id": "2fc00cd0cc8b5367",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -197,11 +197,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a5253313681c42ec",
+  "active": "2fc00cd0cc8b5367",
   "lastOpenFiles": [
     "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
-    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
     "00-Inbox/Araújo et al 1999 - biomass-formulae-comparison-amazonia-oriental.md",
+    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass-pantropical.md",
     "Sem título.base",
     "README.md",
     "2026-05-28.md",

@@ -47,13 +47,11 @@ Os seis papers fornecem mais de 30 equações alométricas documentadas, abrange
 | H1     | Higuchi 2015 | BStot = 2,7179 × DAP^1,8774 × 0,584 × fc (fc = Hdom_sítio / 30,2)                 | BStot seca (kg)       | 494* | Amazonas         | 0,94  | 3,91%                        |
 | H2     | Higuchi 2015 | AGB = 2,2737 × DAP^1,9156 × 0,584 × fc                                            | AGB seca (kg)         | 494* | Amazonas         | 0,85  | 4,20%                        |
 | H3     | Higuchi 2015 | BGB = 0,0469 × DAP^2,4754 × 0,533 × fc                                            | BGB seca (kg)         | 131* | Amazonas         | 0,95  | 5,12%                        |
-|        |              |                                                                                   |                       |      |                  |       |                              |
-
-| N1 | Nogueira 2008 | ln(AGW) = −1,716 + 2,413·ln(D) | AGW seca (kg) | 267 | Sul Amazônia | — | — |
-| N2 | Nogueira 2008 | AGB = 2,718·DAP^1,877·0,584·0,951 (VEF corrigido) | AGB seca (kg) | 267 | Sul Amazônia | — | — |
-| A1 | Araújo 1999 | FW = 0,026·D^1,529·H^1,747 (FW7) | PF total (kg, fresca) | 127 | Pará (Leste) | — | <0,6% |
-| A2 | Araújo 1999 | FW = 0,465·D^2,202/(1−M) (FW8) | PF total (kg, fresca) | 127 | Pará (Leste) | — | <0,6% |
-| A3 | Araújo 1999 | ln(AGW) = −2,377 + 2,651·ln(D) (compil. Lima 2012) | AGW fresca (kg) | 127 | Pará (Leste) | — | — |
+| N1     | Nogueira 2008 | ln(AGW) = −1,716 + 2,413·ln(D)                                                    | AGW seca (kg)         | 267  | Sul Amazônia      | —     | —                            |
+| N2     | Nogueira 2008 | AGB = 2,718·DAP^1,877·0,584·0,951 (VEF corrigido)                                 | AGB seca (kg)         | 267  | Sul Amazônia      | —     | —                            |
+| A1     | Araújo 1999   | FW = 0,026·D^1,529·H^1,747 (FW7)                                                   | PF total (kg, fresca) | 127  | Pará (Leste)      | —     | <0,6%                        |
+| A2     | Araújo 1999   | FW = 0,465·D^2,202/(1−M) (FW8)                                                     | PF total (kg, fresca) | 127  | Pará (Leste)      | —     | <0,6%                        |
+| A3     | Araújo 1999   | ln(AGW) = −2,377 + 2,651·ln(D) (compil. Lima 2012)                                 | AGW fresca (kg)       | 127  | Pará (Leste)      | —     | —                            |
 
 > Nota: As equações H1–H3 usam os coeficientes de Silva (2007) com fator de correção fc. n refere-se aos dados originais de Silva (2007). A equação H1 é equivalente a S1 convertida para peso seco (×0,584 = 1 − 0,416) e corrigida por fc.
 
