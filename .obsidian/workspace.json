@@ -11,10 +11,10 @@
             "id": "28fde851c166392c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -190,6 +190,7 @@
   },
   "active": "28fde851c166392c",
   "lastOpenFiles": [
+    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass.md",
     "00-Inbox/2014-CHAVE-allometric-models-tropical-biomass.md",
     "04-Templates/nota-topico.md",
     "05-Meta/workflow.md",

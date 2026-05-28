@@ -75,8 +75,18 @@ Nunca invente uma opinião pelo usuário.
 - Se o vault estiver vazio: `_nenhuma conexão identificada ainda_`
 
 ### 5. Nome do arquivo
-Formato: `YYYY-SOBRENOME-palavra-chave-do-titulo.md`
-Exemplo: `2023-SILVA-desmatamento-amazonia.md`
+Formato: `Autor et al Ano - palavras-chave-do-titulo.md`
+Regras:
+- **Autor**: sobrenome do primeiro autor capitalizado normalmente
+- **et al**: se houver múltiplos autores (omitir se autor único)
+- **Ano**: ano de publicação
+- **Título**: 3-5 palavras-chave do título, minúsculas, separadas por hífen
+- **Separador**: ` - ` entre autor/ano e o título
+
+Exemplos:
+- `Chave et al 2014 - improved-allometric-models-biomass.md`
+- `Higuchi 2015 - dinamica-volume-biomassa-floresta.md`
+- `Silva 2007 - alometria-estoque-dinamica-biomassa.md`
 
 ### 6. Salvar
 Salve em `00-Inbox/`.
