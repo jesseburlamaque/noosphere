@@ -35,7 +35,15 @@ Apresente ao usuário um relatório com três seções:
 - **Tags obsoletas** (documentadas, nunca usadas) — sugerir remover
 - **Possíveis duplicatas** — sugerir consolidar
 
-### 4. Aguardar confirmação
+### 4. Verificação de notas órfãs
+
+Identifique notas sem wikilinks de entrada ou saída (órfãs):
+
+- **Notas em `00-Inbox/` e `01-Papers/`** sem `[[links]]` na seção "Conexões com outras notas"
+- **Notas em `02-Topicos/`** que nenhum paper linka
+- Sugira ao usuário adicionar links manuais ou excluir notas irrelevantes
+
+### 5. Aguardar confirmação
 Nunca altere `05-Meta/tags.md` sem aprovação explícita do usuário.
 Após confirmação, atualize o arquivo com as mudanças aprovadas.
 

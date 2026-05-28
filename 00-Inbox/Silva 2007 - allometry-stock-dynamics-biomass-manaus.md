@@ -1,21 +1,19 @@
 ---
-noteId: "silva2007alometria"
+noteId: silva2007alometria
 tags:
-  - "biomassa"
-  - "amazonia"
-  - "metodologia"
-  - "carbono"
-  - "floresta"
-  - "amazonia-central"
-  - "manaus"
-title: "Alometria, estoque e dinâmica da biomassa de florestas primárias e secundárias na região de Manaus (AM)"
+  - biomassa
+  - amazonia
+  - carbono
+  - floresta
+  - amazonia-central
+  - manaus
+title: Alometria, estoque e dinâmica da biomassa de florestas primárias e secundárias na região de Manaus (AM)
 authors:
-  - "Silva RP"
+  - Silva RP
 year: 2007
 doi: ""
-journal: "Tese de Doutorado - INPA/UFAM, Manaus"
-status: "inbox"
-
+journal: Tese de Doutorado - INPA/UFAM, Manaus
+status: inbox
 ---
 
 # Alometria, estoque e dinâmica da biomassa de florestas primárias e secundárias na região de Manaus (AM)
@@ -48,5 +46,8 @@ _a preencher_
 
 ## Conexões com outras notas
 
-- [[Lima et al 2012 - allometric-models-biomass-above-below-ground]] — usa os dados de Silva 2007 como referência para a Amazônia central, comparando os modelos alométricos D-BGW e D-AGW com o noroeste da Amazônia
-- [[Chave et al 2014 - improved-allometric-models-biomass]] — debate modelos pan-tropicais vs. regionais; Silva 2007 fornece modelos regionais para Manaus usados como referência naquele paper
+- [[Alometria]] — modelos alométricos regionais para Manaus como contraponto aos modelos pan-tropicais
+- [[Biomassa]] — estoque, dinâmica e partição da biomassa em florestas primárias e secundárias de Manaus
+- [[Amazônia Central]] — região de estudo, referência para comparações com outras regiões amazônicas
+- [[Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro]] — usa os dados de Silva 2007 como referência para a Amazônia central, comparando os modelos alométricos D-BGW e D-AGW com o noroeste da Amazônia
+- [[Chave et al 2014 - improved-allometric-models-biomass-pantropical]] — debate modelos pan-tropicais vs. regionais; este paper fornece modelos regionais para Manaus usados como referência naquele estudo

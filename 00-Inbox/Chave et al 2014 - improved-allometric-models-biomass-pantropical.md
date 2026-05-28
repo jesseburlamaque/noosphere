@@ -1,45 +1,42 @@
 ---
-noteId: "a3735ae05a4711f18000d17e4ea03c9a"
+noteId: a3735ae05a4711f18000d17e4ea03c9a
 tags:
-  - "carbono"
-  - "biomassa"
-  - "floresta"
-  - "metodologia"
-  - "redd"
-  - "achado-chave"
-  - "amazonia"
-  - "pan-tropical"
-title: "Improved allometric models to estimate the aboveground biomass of tropical trees"
+  - carbono
+  - biomassa
+  - floresta
+  - achado-chave
+  - amazonia
+  - pan-tropical
+title: Improved allometric models to estimate the aboveground biomass of tropical trees
 authors:
-  - "Chave J"
-  - "Réjou-Méchain M"
-  - "Búrquez A"
-  - "Chidumayo E"
-  - "Colgan MS"
-  - "Delitti WBC"
-  - "Duque A"
-  - "Eid T"
-  - "Fearnside PM"
-  - "Goodman RC"
-  - "Henry M"
-  - "Martínez-Yrízar A"
-  - "Mugasha WA"
-  - "Muller-Landau HC"
-  - "Mencuccini M"
-  - "Nelson BW"
-  - "Ngomanda A"
-  - "Nogueira EM"
-  - "Ortiz-Malavassi E"
-  - "Pélissier R"
-  - "Ploton P"
-  - "Ryan CM"
-  - "Saldarriaga JG"
-  - "Vieilledent G"
+  - Chave J
+  - Réjou-Méchain M
+  - Búrquez A
+  - Chidumayo E
+  - Colgan MS
+  - Delitti WBC
+  - Duque A
+  - Eid T
+  - Fearnside PM
+  - Goodman RC
+  - Henry M
+  - Martínez-Yrízar A
+  - Mugasha WA
+  - Muller-Landau HC
+  - Mencuccini M
+  - Nelson BW
+  - Ngomanda A
+  - Nogueira EM
+  - Ortiz-Malavassi E
+  - Pélissier R
+  - Ploton P
+  - Ryan CM
+  - Saldarriaga JG
+  - Vieilledent G
 year: 2014
-doi: "https://doi.org/10.1111/gcb.12629"
-journal: "Global Change Biology"
-status: "inbox"
-
+doi: https://doi.org/10.1111/gcb.12629
+journal: Global Change Biology
+status: inbox
 ---
 
 # Improved allometric models to estimate the aboveground biomass of tropical trees
@@ -70,4 +67,7 @@ _a preencher_
 
 ## Conexões com outras notas
 
-- _nenhuma conexão identificada ainda_
+- [[Alometria]] — paper de referência para modelos alométricos pan-tropicais
+- [[Biomassa]] — método padrão para estimativa de biomassa acima do solo em florestas tropicais
+- [[Lima et al 2012 - allometric-models-biomass-above-below-ground-rio-negro]] — fornece evidência de que modelos regionais capturam variação D-H não explicada por equações gerais
+- [[Silva 2007 - allometry-stock-dynamics-biomass-manaus]] — modelos regionais para Manaus usados como referência na compilação de dados da Amazônia

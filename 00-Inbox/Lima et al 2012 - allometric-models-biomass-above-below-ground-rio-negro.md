@@ -1,31 +1,29 @@
 ---
-noteId: "lima2012allometric"
+noteId: lima2012allometric
 tags:
-  - "biomassa"
-  - "amazonia"
-  - "metodologia"
-  - "carbono"
-  - "floresta"
-  - "amazonia-nw"
-  - "rio-negro"
-title: "Allometric models for estimating above- and below-ground biomass in Amazonian forests at São Gabriel da Cachoeira in the upper Rio Negro, Brazil"
+  - biomassa
+  - amazonia
+  - carbono
+  - floresta
+  - amazonia-nw
+  - rio-negro
+title: Allometric models for estimating above- and below-ground biomass in Amazonian forests at São Gabriel da Cachoeira in the upper Rio Negro, Brazil
 authors:
-  - "Lima AJN"
-  - "Suwa R"
-  - "Ribeiro GHPM"
-  - "Kajimoto T"
-  - "Santos J"
-  - "Silva RP"
-  - "Souza CAS"
-  - "Barros PC"
-  - "Noguchi H"
-  - "Ishizuka M"
-  - "Higuchi N"
+  - Lima AJN
+  - Suwa R
+  - Ribeiro GHPM
+  - Kajimoto T
+  - Santos J
+  - Silva RP
+  - Souza CAS
+  - Barros PC
+  - Noguchi H
+  - Ishizuka M
+  - Higuchi N
 year: 2012
-doi: "https://doi.org/10.1016/j.foreco.2012.04.028"
-journal: "Forest Ecology and Management"
-status: "inbox"
-
+doi: https://doi.org/10.1016/j.foreco.2012.04.028
+journal: Forest Ecology and Management
+status: inbox
 ---
 
 # Allometric models for estimating above- and below-ground biomass in Amazonian forests at São Gabriel da Cachoeira in the upper Rio Negro, Brazil
@@ -56,5 +54,8 @@ _a preencher_
 
 ## Conexões com outras notas
 
-- [[Chave et al 2014 - improved-allometric-models-biomass]] — modelos pan-tropicais que contestam a necessidade de modelos regionais; este paper (Lima 2012) fornece evidência de que modelos regionais capturam variação D–H não explicada por equações gerais
-- _Silva 2007_ — fonte dos dados de biomassa abaixo do solo para a Amazônia central, usado como comparação direta neste paper
+- [[Alometria]] — desenvolvimento de modelos alométricos específicos para o noroeste da Amazônia
+- [[Biomassa]] — estimativa de biomassa acima e abaixo do solo na região do alto Rio Negro
+- [[Amazônia Central]] — região de referência para comparação dos modelos alométricos D-H e D-BGW
+- [[Chave et al 2014 - improved-allometric-models-biomass-pantropical]] — modelos pan-tropicais que contestam a necessidade de modelos regionais; este paper fornece evidência de que modelos regionais capturam variação D-H não explicada por equações gerais
+- [[Silva 2007 - allometry-stock-dynamics-biomass-manaus]] — fonte dos dados de biomassa abaixo do solo para a Amazônia central, usado como comparação direta neste paper
