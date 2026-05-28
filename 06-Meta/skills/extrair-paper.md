@@ -46,7 +46,7 @@ Exemplos:
 - `year`: ano de publicação
 - `doi`: link clicável completo (`https://doi.org/10...`) se encontrado no PDF; se não houver DOI, deixe em branco (`""`) para preenchimento manual
 - `journal`: nome da revista ou conferência
-- `tags`: selecione APENAS do vocabulário em `05-Meta/tags.md`
+- `tags`: selecione APENAS do vocabulário em `06-Meta/tags.md`
 - `status`: sempre inicie como `inbox`
 
 ### 4. Preenchimento das seções
@@ -96,7 +96,7 @@ Exemplos:
 
 Se na etapa 4 você identificou um conceito central sem nota de tópico correspondente em `02-Topicos/`:
 
-1. **Crie a nota** em `02-Topicos/` usando como referência o template `04-Templates/nota-topico.md`
+1. **Crie a nota** em `02-Topicos/` usando como referência o template `05-Templates/nota-topico.md`
 2. **Definição**: 2-4 frases explicando o conceito
 3. **Papers-chave**: o Dataview consultará as tags automaticamente; adicione também a tag correta no frontmatter da nota de tópico
 4. **Perguntas em aberto**: 2-3 perguntas derivadas do paper recém-lido e da literatura
@@ -108,6 +108,6 @@ Salve em `00-Inbox/`.
 Confirme para o usuário: nome do arquivo criado + tags aplicadas.
 
 ### 8. Revisão de tags
-Após salvar, verifique se todas as tags usadas existem em `05-Meta/tags.md`.
+Após salvar, verifique se todas as tags usadas existem em `06-Meta/tags.md`.
 Se houver tags novas não documentadas, avise o usuário e aguarde confirmação
 antes de qualquer alteração no vocabulário.

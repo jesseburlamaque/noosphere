@@ -26,10 +26,11 @@ Noosphere/
 ├── 01-Papers/
 │   ├── Processados/    # Papers lidos, anotados e linkados
 │   └── Referencia/     # Papers de consulta rápida (não lidos na íntegra)
-├── 02-Topicos/         # Notas de síntese temática
-├── 03-Projetos/        # Notas de projetos de pesquisa
-├── 04-Templates/       # Templates para novas notas
-└── 05-Meta/            # Documentação do próprio vault
+├── 02-Topicos/         # Notas de tópico temático
+├── 03-Sinteses/         # Notas de síntese temática
+├── 04-Projetos/        # Notas de projetos de pesquisa
+├── 05-Templates/       # Templates para novas notas
+└── 06-Meta/            # Documentação do próprio vault
     └── skills/         # Skills para assistentes de IA
 ```
 
@@ -45,7 +46,7 @@ Noosphere/
 🧹 Revisão semanal → auditar tags, conectar notas órfãs
 ```
 
-Veja [[05-Meta/workflow]] para o passo a passo detalhado.
+Veja [[06-Meta/workflow]] para o passo a passo detalhado.
 
 ## Queries Dataview
 
@@ -78,7 +79,7 @@ SORT file.cday DESC
 
 ## Convenções de Tags
 
-Use o arquivo [[05-Meta/tags]] como vocabulário controlado. Tags são organizadas em três grupos: **Status**, **Domínio** e **Output**. Mantenha a disciplina — tags demais matam o grafo.
+Use o arquivo [[06-Meta/tags]] como vocabulário controlado. Tags são organizadas em três grupos: **Status**, **Domínio** e **Output**. Mantenha a disciplina — tags demais matam o grafo.
 
 ---
 

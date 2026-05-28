@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23aa7c7d749e6ce8",
+        "id": "76950aa49841eb63",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d966182cbb9dcc",
+            "id": "f929589bb34b51ec",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,9 +49,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "síntese",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -188,9 +188,28 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "88b3001e7ae28f0d",
+  "active": "f929589bb34b51ec",
   "lastOpenFiles": [
+    "_pdfs/27896.pdf",
+    "_pdfs/Unconfirmed 989997.crdownload",
     "2026-05-28.md",
+    "06-Meta/workflow.md",
+    "04-Projetos",
+    "06-Meta/skills/sintetizar-papers.md",
+    "06-Meta/skills/revisar-tags.md",
+    "06-Meta/skills/extrair-paper.md",
+    "06-Meta/tags.md",
+    "06-Meta/skills",
+    "06-Meta/graph-config.md",
+    "06-Meta/README.md",
+    "06-Meta",
+    "05-Templates/nota-topico.md",
+    "05-Templates/nota-sintese.md",
+    "05-Templates/nota-paper.md",
+    "05-Templates",
+    "03-Sinteses/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
+    "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
+    "03-Sinteses",
     "Sem título.canvas",
     "02-Topicos/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
     "02-Topicos/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
@@ -204,15 +223,6 @@
     "02-Topicos/Amazônia Central.md",
     "02-Topicos/Biomassa.md",
     "02-Topicos/Alometria.md",
-    "00-Inbox/Lima et al 2012 - allometric-models-biomass-above-below-ground.md",
-    "00-Inbox/Silva 2007 - alometria-estoque-dinamica-biomassa.md",
-    "00-Inbox/Chave et al 2014 - improved-allometric-models-biomass.md",
-    "00-Inbox/2014-CHAVE-allometric-models-tropical-biomass.md",
-    "04-Templates/nota-topico.md",
-    "05-Meta/workflow.md",
-    "00-Inbox/exemplo-paper.md",
-    "04-Templates/nota-paper.md",
-    "01-Papers/2020-BRAGAGNOLO-desmatamento-igars.md",
     "_pdfs/Chave2014-GCB.pdf",
     "_pdfs/Unconfirmed 272382.crdownload",
     "_pdfs"

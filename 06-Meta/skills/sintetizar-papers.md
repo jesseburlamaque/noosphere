@@ -41,10 +41,10 @@ Para cada paper identificado:
 
 ### 3. Estruturar a síntese
 
-Crie a nota seguindo o template `04-Templates/nota-sintese.md`:
+Crie a nota seguindo o template `05-Templates/nota-sintese.md`:
 
 **Título**: `Síntese - [tema central].md`
-Salve em `02-Topicos/` (ex: `02-Topicos/Síntese - Modelos Alométricos na Amazônia.md`)
+Salve em `03-Sinteses/` (ex: `03-Sinteses/Síntese - Modelos Alométricos na Amazônia.md`)
 
 **Resumo em uma frase**: Uma frase que sintetize o que o conjunto dos papers revela.
 
@@ -74,5 +74,5 @@ Salve em `02-Topicos/` (ex: `02-Topicos/Síntese - Modelos Alométricos na Amaz�
 
 ### 5. Salvar e confirmar
 
-Salve em `02-Topicos/`.
+Salve em `03-Sinteses/`.
 Confirme para o usuário: nome da síntese criada + papers incluídos + variáveis comparadas + número de conclusões.

@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -18,32 +18,32 @@
       "query": "path:01-Papers",
       "color": {
         "a": 1,
-        "rgb": 12648289
-      }
-    },
-    {
-      "query": "path:02-Topicos/Síntese",
-      "color": {
-        "a": 1,
-        "rgb": 9590237
+        "rgb": 12313474
       }
     },
     {
       "query": "path:02-Topicos",
       "color": {
         "a": 1,
+        "rgb": 9830619
+      }
+    },
+    {
+      "query": "path:03-Sinteses",
+      "color": {
+        "a": 1,
         "rgb": 15249723
       }
     },
     {
-      "query": "path:05-Meta",
+      "query": "path:06-Meta",
       "color": {
         "a": 1,
         "rgb": 9275291
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5,
-  "close": false
+  "scale": 1.0998670067283098,
+  "close": true
 }

@@ -11,8 +11,8 @@ tags: []
 **Quando:** encontrou um paper interessante.
 **Onde:** `00-Inbox/`
 
-1. Use a skill [[05-Meta/skills/extrair-paper]] para gerar a nota automaticamente
-2. Ou crie manualmente usando o template `04-Templates/nota-paper.md`
+1. Use a skill [[06-Meta/skills/extrair-paper]] para gerar a nota automaticamente
+2. Ou crie manualmente usando o template `05-Templates/nota-paper.md`
 3. A nota nasce com `status: inbox`
 
 **Regra:** quantidade > qualidade na captura. Se parecer relevante, entra. Decide-se depois.
@@ -46,7 +46,7 @@ tags: []
 **Quando:** toda sexta-feira.
 
 1. **Inbox zero:** processe ou mova para `01-Papers/Referencia/` tudo que está em `00-Inbox/`
-2. **Auditoria de tags:** rode a skill [[05-Meta/skills/revisar-tags]]
+2. **Auditoria de tags:** rode a skill [[06-Meta/skills/revisar-tags]]
 3. **Notas órfãs:** verifique papers sem links de saída
 4. **Dataview:** cheque a query de papers não lidos — se passou 30 dias em `#inbox`, mova para `01-Papers/Referencia/`
 

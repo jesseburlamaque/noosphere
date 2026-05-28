@@ -34,6 +34,6 @@ SORT year DESC
 
 ```dataview
 LIST
-FROM "03-Projetos"
+FROM "04-Projetos"
 WHERE contains(file.outlinks, this.file.link)
 ```

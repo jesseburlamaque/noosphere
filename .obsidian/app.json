@@ -2,7 +2,9 @@
   "userIgnoreFilters": [
     "01-Papers/",
     "02-Topicos/",
-    "05-Meta/",
-    "04-Templates/"
-  ]
+    "05-Templates/",
+    "06-Meta/",
+    "06-Meta/skills/"
+  ],
+  "showLineNumber": true
 }

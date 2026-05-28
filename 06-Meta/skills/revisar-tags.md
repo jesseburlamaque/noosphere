@@ -7,7 +7,7 @@ tags: []
 # Skill: Revisar Vocabulário de Tags
 
 ## Objetivo
-Auditar as tags em uso no vault e manter `05-Meta/tags.md` atualizado
+Auditar as tags em uso no vault e manter `06-Meta/tags.md` atualizado
 e consistente com o conteúdo real dos papers.
 
 ## Trigger
@@ -23,7 +23,7 @@ Use este skill quando o usuário disser algo como:
 - Extraia todas as tags presentes nos frontmatters YAML
 
 ### 2. Comparação
-- Compare as tags encontradas com o vocabulário em `05-Meta/tags.md`
+- Compare as tags encontradas com o vocabulário em `06-Meta/tags.md`
 - Identifique:
   - Tags em uso mas não documentadas
   - Tags documentadas mas nunca usadas
@@ -44,7 +44,7 @@ Identifique notas sem wikilinks de entrada ou saída (órfãs):
 - Sugira ao usuário adicionar links manuais ou excluir notas irrelevantes
 
 ### 5. Aguardar confirmação
-Nunca altere `05-Meta/tags.md` sem aprovação explícita do usuário.
+Nunca altere `06-Meta/tags.md` sem aprovação explícita do usuário.
 Após confirmação, atualize o arquivo com as mudanças aprovadas.
 
 ## Frequência recomendada
