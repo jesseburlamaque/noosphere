@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45dc6e7f4fe2faeb",
+        "id": "38f9ef9107116b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "42998cbf25cb472b",
+            "id": "38e4e1caf92e3b2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04-Templates/nota-topico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nota-topico"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#carbono",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,11 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "04-Templates/nota-topico.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for nota-topico"
+              "title": "File properties"
             }
           }
         ],
@@ -179,26 +174,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "42998cbf25cb472b",
+  "active": "88b3001e7ae28f0d",
   "lastOpenFiles": [
-    "00-Inbox/exemplo-paper.md",
     "04-Templates/nota-topico.md",
+    "05-Meta/workflow.md",
+    "00-Inbox/2014-CHAVE-allometric-models-tropical-biomass.md",
+    "00-Inbox/exemplo-paper.md",
     "04-Templates/nota-paper.md",
     "01-Papers/2020-BRAGAGNOLO-desmatamento-igars.md",
-    "00-Inbox/2014-CHAVE-allometric-models-tropical-biomass.md",
     "_pdfs/Chave2014-GCB.pdf",
     "_pdfs/Unconfirmed 272382.crdownload",
     "_pdfs"

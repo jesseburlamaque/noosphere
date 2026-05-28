@@ -1,1 +1,8 @@
-{}
+{
+  "userIgnoreFilters": [
+    "01-Papers/",
+    "02-Topicos/",
+    "05-Meta/",
+    "04-Templates/"
+  ]
+}
