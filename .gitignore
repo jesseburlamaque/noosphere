@@ -1,0 +1,5 @@
+# PDFs originais (mantidos fora do vault)
+_pdfs/
+
+# Notebook assets e temporarios
+.notebook/
