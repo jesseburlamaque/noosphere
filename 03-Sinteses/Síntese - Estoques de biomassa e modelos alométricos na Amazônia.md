@@ -1,9 +1,9 @@
 ---
-noteId: "sintese-biomassa-alometria"
+noteId: sintese-biomassa-alometria
 tags:
-  - "biomassa"
-  - "amazonia"
-  - "metodologia"
+  - alometria
+  - biomassa
+  - amazonia
 ---
 
 # Síntese - Estoques de biomassa e modelos alométricos na Amazônia

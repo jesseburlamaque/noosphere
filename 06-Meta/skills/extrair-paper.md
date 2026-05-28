@@ -68,6 +68,8 @@ Regras:
 - `tags`: lista YAML, cada tag em linha separada com `- `. **Nunca** usar formato `[#tag1 #tag2]` ou prefixo `#` nos valores
 - Selecione APENAS do vocabulário em `06-Meta/tags.md`
 - `noteId` não recebe aspas. `doi` e `journal` vão entre aspas se contiverem caracteres especiais
+- `#alometria`: usar para papers que calibram, comparam ou validam equações alométricas. **Prefira `#alometria` em vez de `#metodologia`** para papers de alometria
+- `#metodologia`: reservar para papers cujo foco principal é desenvolvimento/validação de método **não alométrico** (ex: metodologia de carbono, protocolo de campo)
 
 ### 4. Preenchimento das seções
 

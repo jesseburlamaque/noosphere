@@ -33,6 +33,7 @@ tags: []
 | `#enso` | El Niño, Oscilação Sul, teleconexões e impactos |
 | `#hidrologia` | Ciclo hidrológico, vazão, precipitação, seca |
 | `#biodiversidade` | Riqueza de espécies, composição, indicadores |
+| `#alometria` | Relações alométricas DAP-altura-volume-biomassa, equações de simples e dupla entrada |
 | `#biomassa` | Estimativa, modelos alométricos, estoques de biomassa acima e abaixo do solo |
 
 ## Região

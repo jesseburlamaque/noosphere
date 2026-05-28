@@ -1,7 +1,7 @@
 ---
 noteId: "alometria-topico"
 tags:
-  - "metodologia"
+  - alometria
 aliases:
   - "Alometria"
   - "Relação DAP-altura-volume"
@@ -19,7 +19,7 @@ Relações matemáticas entre dimensões mensuráveis das árvores (DAP, altura,
 ```dataview
 TABLE authors, year, journal
 FROM "00-Inbox" OR "01-Papers"
-WHERE contains(tags, "#metodologia") AND contains(tags, "#biomassa")
+WHERE contains(tags, "#alometria")
 SORT year DESC
 ```
 

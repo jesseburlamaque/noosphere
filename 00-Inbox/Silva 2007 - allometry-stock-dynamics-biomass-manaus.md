@@ -1,6 +1,7 @@
 ---
 noteId: silva2007alometria
 tags:
+  - alometria
   - biomassa
   - amazonia
   - carbono

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "064fd8ea6a610808",
+        "id": "26f3253cfe1f2588",
         "type": "tabs",
         "children": [
           {
-            "id": "9fcf01f08ef8b2cb",
+            "id": "80dd4f9c8d0292da",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "alometria",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -188,10 +188,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9fcf01f08ef8b2cb",
+  "active": "80dd4f9c8d0292da",
   "lastOpenFiles": [
-    "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
     "03-Sinteses/Síntese - Estoques de biomassa e modelos alométricos na Amazônia.md",
+    "00-Inbox/Melo et al 2024 - neotropical-carbon-stocks-direct-measurements-amazonia-ocidental.md",
     "03-Sinteses/Síntese - Equações alométricas para biomassa e volume na Amazônia.md",
     "00-Inbox/Nogueira et al 2008 - allometric-equations-biomass-wood-volume-amazonia.md",
     "00-Inbox/Araújo et al 1999 - biomass-formulae-comparison-amazonia-oriental.md",

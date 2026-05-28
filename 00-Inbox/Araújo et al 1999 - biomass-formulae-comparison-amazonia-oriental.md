@@ -1,6 +1,7 @@
 ---
 noteId: araujo1999comparison
 tags:
+  - alometria
   - biomassa
   - floresta
   - amazonia

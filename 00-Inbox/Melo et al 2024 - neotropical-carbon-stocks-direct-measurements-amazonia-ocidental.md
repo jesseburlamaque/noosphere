@@ -1,6 +1,7 @@
 ---
 noteId: melo2024neotropical
 tags:
+  - alometria
   - biomassa
   - carbono
   - amazonia

@@ -1,6 +1,7 @@
 ---
 noteId: nogueira2008estimates
 tags:
+  - alometria
   - biomassa
   - carbono
   - amazonia

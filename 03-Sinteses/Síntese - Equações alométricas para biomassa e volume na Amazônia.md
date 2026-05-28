@@ -1,6 +1,7 @@
 ---
 noteId: sintese-equacoes-alometricas
 tags:
+  - alometria
   - biomassa
   - amazonia
 ---

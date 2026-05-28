@@ -1,6 +1,7 @@
 ---
 noteId: higuchi2015dinamica
 tags:
+  - alometria
   - carbono
   - biomassa
   - amazonia

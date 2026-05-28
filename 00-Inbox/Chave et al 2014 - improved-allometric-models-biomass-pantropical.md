@@ -1,6 +1,7 @@
 ---
 noteId: a3735ae05a4711f18000d17e4ea03c9a
 tags:
+  - alometria
   - carbono
   - biomassa
   - floresta

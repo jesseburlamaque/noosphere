@@ -1,6 +1,7 @@
 ---
 noteId: lima2012allometric
 tags:
+  - alometria
   - biomassa
   - amazonia
   - carbono
